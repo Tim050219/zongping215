@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 高二第二学年度研究性学期填写流程及说明
 
-You can use the [editor on GitHub](https://github.com/Tim050219/zongping215/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Step.1找到你的位置，请根据下面的图片进行查找。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Step.2打开对应链接
+找到你的名字和你对应的组长后，复制并打开下方的对应链接（手机浏览器即可，版本不要太旧，否则可能会出现一片空白）
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+刘欣竹https://docs.zohopublic.com.cn/folder/0tapu9ea0b97f849142ff8c87ab10e2fd118f
 
-```markdown
-Syntax highlighted code block
+周佳惠https://docs.zohopublic.com.cn/folder/0tapua9fd02eb58984d149c84ba4f27f64d36
 
-# Header 1
-## Header 2
-### Header 3
+李双竹https://docs.zohopublic.com.cn/folder/0tapube4b10cb06f54313a8fc0f1e4548e333
 
-- Bulleted
-- List
+杨宇https://docs.zohopublic.com.cn/folder/0tapudbd66231b19b4c938a8d09a1cdd80837
 
-1. Numbered
-2. List
+王国奇https://docs.zohopublic.com.cn/folder/0tapuae9e4aa9d89a4de59e0c4ca96571a425
+### Step.3抄写
+打开后，内有5个PDF文件是关于这次研究性学习的，组员的话请摘抄5-6个人即可（最好是6个，必须有组长）
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tim050219/zongping215/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 若有任何问题请联系本人：
+微信：wym13998961245
+QQ：3050954988
